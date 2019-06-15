@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423066020640",
+    "firebase_url": "https://agenda-contatps.firebaseio.com",
+    "project_id": "agenda-contatps",
+    "storage_bucket": "agenda-contatps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423066020640:android:b0f6ffa0a564f071",
+        "android_client_info": {
+          "package_name": "com.example.aluno.agendacontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423066020640-6l52n1j7t1oftff8ka2n2hgmvhb3dlc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.agendacontatos",
+            "certificate_hash": "61576378d589ad27d067dd3f0254dd94fcd339ac"
+          }
+        },
+        {
+          "client_id": "423066020640-a2l99oig9qpf6ai5je1en8jcgkc48v1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzhg9uBboeKkKAyyzpvxDQdOe6sj5Sffs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423066020640-a2l99oig9qpf6ai5je1en8jcgkc48v1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
