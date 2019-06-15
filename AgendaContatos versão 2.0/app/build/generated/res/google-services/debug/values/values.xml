@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">423066020640-a2l99oig9qpf6ai5je1en8jcgkc48v1i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://agenda-contatps.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">423066020640</string>
+    <string name="google_api_key" translatable="false">AIzaSyAzhg9uBboeKkKAyyzpvxDQdOe6sj5Sffs</string>
+    <string name="google_app_id" translatable="false">1:423066020640:android:b0f6ffa0a564f071</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzhg9uBboeKkKAyyzpvxDQdOe6sj5Sffs</string>
+    <string name="google_storage_bucket" translatable="false">agenda-contatps.appspot.com</string>
+    <string name="project_id" translatable="false">agenda-contatps</string>
+</resources>
