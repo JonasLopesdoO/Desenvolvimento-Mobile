@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+              android:icon="@drawable/ic_home"
+              android:title="Home"/>
+        <item android:id="@+id/nav_consulta"
+              android:icon="@drawable/ic_search"
+              android:title="Consulta"/>
+        <item android:id="@+id/nav_message"
+              android:icon="@drawable/ic_message"
+              android:title="Mensagem"/>
+    </group>
+    <item android:title="Ajuda">
+        <menu>
+            <item android:id="@+id/nav_help"
+                  android:icon="@drawable/ic_help"
+                  android:title="FAQ"/>
+
+            <item android:id="@+id/nav_location"
+                  android:icon="@drawable/ic_location"
+                  android:title="Como chegar"/>
+        </menu>
+    </item>
+    <item android:title="Servidor">
+        <menu>
+            <item android:id="@+id/nav_minha_consulta"
+                  android:icon="@drawable/ic_minha_consulta"
+                  android:title="Minhas Consultas"/>
+
+            <item android:id="@+id/nav_cad_consulta"
+                  android:icon="@drawable/ic_add_consulta"
+                  android:title="Cad Consulta"/>
+
+            <item android:id="@+id/cad_faq"
+                  android:icon="@drawable/ic_cad_faq"
+                  android:title="Cadastro FAQ"/>
+        </menu>
+    </item>
+</menu>
+

@@ -1,0 +1,4 @@
+#Sun May 26 22:25:28 GFT 2019
+base.0=C\:\\Users\\Jonas Lopes\\Documents\\GitHub\\SACCS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

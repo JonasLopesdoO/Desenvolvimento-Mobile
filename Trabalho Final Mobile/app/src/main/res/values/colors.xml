@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6c2575</color>
+    <color name="colorPrimaryDark">#4b1e51</color>
+    <color name="colorAccent">#6c2575</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorCliqueAqui">#4169E1</color>
+    <color name="colorNavHeaderPrincipal">#979797</color>
+    <color name="colorGray">#979797</color>
+</resources>
