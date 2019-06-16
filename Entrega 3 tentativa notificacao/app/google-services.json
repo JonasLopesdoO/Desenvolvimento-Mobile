@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12148760780",
+    "firebase_url": "https://notificacao-firebase-8b687.firebaseio.com",
+    "project_id": "notificacao-firebase-8b687",
+    "storage_bucket": "notificacao-firebase-8b687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12148760780:android:49d6aee22969105f",
+        "android_client_info": {
+          "package_name": "br.com.ufc.entrga3tentativanotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12148760780-9r55tfnl7jasm2hp72njvda99finlo9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65YbMep099ClU4sM8P6Diplxj6gR81hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

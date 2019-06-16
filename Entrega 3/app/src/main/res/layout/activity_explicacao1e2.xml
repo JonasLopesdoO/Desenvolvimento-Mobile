@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Explicacao1e2Activity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Explicação"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="italic|bold"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="start"
+            android:text="Service é uma classe base de implementação de serviço. Service é executado na thread principal do aplicativo, o que pode reduzir o desempenho do aplicativo podendo até travá-lo. Já o IntentService é uma subclass direta de Service, torna mais fácil essa questão.
+
+O IntentService é usado quando se quer executar uma tarefa em segundo plano. Uma vez chamado, sua execução termina automaticamente após terminar.
+"
+            android:textSize="18dp"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="start"
+            android:textStyle="bold"
+            android:text="Diferenças"
+            android:textSize="18dp"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="start"
+            android:text="A classe Service usa o thread principal do aplicativo, enquanto IntentService cria um thread de trabalho que você pode nomeá-la como quiser. Ela usa essa thread para executar o serviço.
+IntentService cria uma fila que passa uma intent por vez para o método onHandleIntent(). Desse modo, a implementação de um multi-thread deve ser feita através de uma herança direta da Service. A classe Service precisa ser parada manualmenta stopSelf() ou stopService(). Já na IntentService o serviõ para automaticamente quando termina a execução."
+            android:textSize="18dp"
+            android:layout_marginBottom="20dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="bold|italic"
+            android:textSize="25dp"
+            android:text="Trabalho de mobile 3"
+    />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="italic"
+            android:text="Clique nos botões pra acessar a cada funcionalidade"
+    />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="#C0C0C0"
+            android:orientation="vertical">
+
+        <Button
+                android:id="@+id/btnServiceDownload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Download with Service"/>
+
+        <Button
+                android:id="@+id/btnIntentServiceDownload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Download with Intent Service"/>
+
+        <Button
+                android:id="@+id/btnMusicaComService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Play music with Service"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#708090"
+            android:orientation="vertical">
+
+        <Button
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Notification Update"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Thread with Binded Service"/>
+
+        <Button
+                android:id="@+id/btnBroadcastServiceBoot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Broadcast initialize phone"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Broadcast initialize Binded Service"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:layout_marginTop="25dp"
+            android:orientation="vertical">
+
+        <Button
+                android:id="@+id/btnExplicacao1e2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                style="@style/Animation.AppCompat.Dialog"
+                android:textAllCaps="false"
+                android:text="Explain question 1 and 2"/>
+
+    </LinearLayout>
+
+</LinearLayout>
