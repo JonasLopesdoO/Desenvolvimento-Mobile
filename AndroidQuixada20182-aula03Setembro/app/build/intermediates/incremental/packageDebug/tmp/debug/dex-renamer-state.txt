@@ -1,0 +1,7 @@
+#Sat Dec 08 00:34:41 GFT 2018
+base.0=D\:\\JONAS FILES\\Documents\\Jonas\\ENGENHARIA DE SOFTWARE\\ES 6º Semestre\\Desenvolvimento Mobile\\AndroidQuixada20182-aula03Setembro\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\JONAS FILES\\Documents\\Jonas\\ENGENHARIA DE SOFTWARE\\ES 6º Semestre\\Desenvolvimento Mobile\\AndroidQuixada20182-aula03Setembro\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1

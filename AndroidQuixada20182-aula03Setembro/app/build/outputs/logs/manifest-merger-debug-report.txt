@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8c9fbcea8e6dc0b3d405b9b9b01101b3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4df0fd4ed541bbcacad36b4907607ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c71207d989b3da023eb2d07d1477cdfc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab34c9001aeeb5bf3d24c5eff9592eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\85c310a076bace9fbc4229b4afaaeab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a13fcb8f94b6f4aaba8a7cd45cbe2b43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b158d95c0f28640ead4aca823b1efa22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\17c1925642dc742a415c3d9b9fc3802c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d2a2f39a73a4b5baf338daa865ae836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4f7010ee950f76f05232db07e3b32bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\937fca464fb1577875773c82d09beb82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52dfe795c49c28ee5845eec1eb28b53b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f8685aafcca6842ba0fa333603ff5ccf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3c2436ff9c557b42c05d801799143d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a2de7dd6541541807be5a57efc34b08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c57995d2ffdd33e48b67a53c6e96d21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef78110a4a42809964730a826d602d10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a5cf1f0e7b5be6adf20e708063af10f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9f82f96fcf4131b5701531ca2bf0df1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a67868fc2a6c635e3b7df4f04e1667a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05116a1630decadc674920303fb0a88c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\b68e75ada641e53db8e135ede4394578\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\37b930f5b0ca01d800975bd6d210451e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb63d6b58e8198164eba65babd5059\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2426c4ac84cc54d867889789127cd382\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c23c2d8eea2ba485e653b12b852ba16a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9e00dee1d13478cd7a922ecaf1d74468\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\430007b6208652891e0d277061d9eb2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f7898591057cf0c90a107f572c53ad1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6e5cbcff9726032b6ba3e3c86c3d6540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5e49954b41666e4e6770485fd5c34f33\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8c9fbcea8e6dc0b3d405b9b9b01101b3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8c9fbcea8e6dc0b3d405b9b9b01101b3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c71207d989b3da023eb2d07d1477cdfc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c71207d989b3da023eb2d07d1477cdfc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\17c1925642dc742a415c3d9b9fc3802c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\17c1925642dc742a415c3d9b9fc3802c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a67868fc2a6c635e3b7df4f04e1667a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a67868fc2a6c635e3b7df4f04e1667a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.ufc.quixada.dadm.variastelas.MainActivity
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:16:27-74
+activity#br.ufc.quixada.dadm.variastelas.ContactActivity
+ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:19:9-62
+	android:name
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml:19:19-50
+uses-sdk
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8c9fbcea8e6dc0b3d405b9b9b01101b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8c9fbcea8e6dc0b3d405b9b9b01101b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4df0fd4ed541bbcacad36b4907607ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4df0fd4ed541bbcacad36b4907607ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c71207d989b3da023eb2d07d1477cdfc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c71207d989b3da023eb2d07d1477cdfc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab34c9001aeeb5bf3d24c5eff9592eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab34c9001aeeb5bf3d24c5eff9592eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\85c310a076bace9fbc4229b4afaaeab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\85c310a076bace9fbc4229b4afaaeab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a13fcb8f94b6f4aaba8a7cd45cbe2b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a13fcb8f94b6f4aaba8a7cd45cbe2b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b158d95c0f28640ead4aca823b1efa22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b158d95c0f28640ead4aca823b1efa22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\17c1925642dc742a415c3d9b9fc3802c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\17c1925642dc742a415c3d9b9fc3802c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d2a2f39a73a4b5baf338daa865ae836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d2a2f39a73a4b5baf338daa865ae836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4f7010ee950f76f05232db07e3b32bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4f7010ee950f76f05232db07e3b32bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\937fca464fb1577875773c82d09beb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\937fca464fb1577875773c82d09beb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52dfe795c49c28ee5845eec1eb28b53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52dfe795c49c28ee5845eec1eb28b53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f8685aafcca6842ba0fa333603ff5ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f8685aafcca6842ba0fa333603ff5ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3c2436ff9c557b42c05d801799143d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3c2436ff9c557b42c05d801799143d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a2de7dd6541541807be5a57efc34b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a2de7dd6541541807be5a57efc34b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c57995d2ffdd33e48b67a53c6e96d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8c57995d2ffdd33e48b67a53c6e96d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef78110a4a42809964730a826d602d10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef78110a4a42809964730a826d602d10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a5cf1f0e7b5be6adf20e708063af10f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a5cf1f0e7b5be6adf20e708063af10f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9f82f96fcf4131b5701531ca2bf0df1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9f82f96fcf4131b5701531ca2bf0df1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5ee80ca06162b2d643eab2d43cac8621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a67868fc2a6c635e3b7df4f04e1667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a67868fc2a6c635e3b7df4f04e1667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05116a1630decadc674920303fb0a88c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05116a1630decadc674920303fb0a88c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\b68e75ada641e53db8e135ede4394578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\b68e75ada641e53db8e135ede4394578\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\37b930f5b0ca01d800975bd6d210451e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\37b930f5b0ca01d800975bd6d210451e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb63d6b58e8198164eba65babd5059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\addb63d6b58e8198164eba65babd5059\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2426c4ac84cc54d867889789127cd382\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2426c4ac84cc54d867889789127cd382\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c23c2d8eea2ba485e653b12b852ba16a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c23c2d8eea2ba485e653b12b852ba16a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9e00dee1d13478cd7a922ecaf1d74468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9e00dee1d13478cd7a922ecaf1d74468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\430007b6208652891e0d277061d9eb2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\430007b6208652891e0d277061d9eb2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f7898591057cf0c90a107f572c53ad1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f7898591057cf0c90a107f572c53ad1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6e5cbcff9726032b6ba3e3c86c3d6540\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6e5cbcff9726032b6ba3e3c86c3d6540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5e49954b41666e4e6770485fd5c34f33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5e49954b41666e4e6770485fd5c34f33\AndroidManifest.xml:20:5-44
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		ADDED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JONAS FILES\Documents\Jonas\ENGENHARIA DE SOFTWARE\ES 6º Semestre\Desenvolvimento Mobile\AndroidQuixada20182-aula03Setembro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d047f716a90375d362272c529ff1b74\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db47c096d57c32dc2961adf1b0143a6f\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9d25cf88f81de548f2e497fa06153653\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bca0a34845c4adf172823fdf2a5baecf\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jonas Lopes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d7b47752941eb61f9df93d4b413ea27d\AndroidManifest.xml:27:13-51
