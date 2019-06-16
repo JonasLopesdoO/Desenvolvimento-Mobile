@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnToggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarToggleActivity"
+                android:text="Toggle Button" />
+
+            <Button
+                android:id="@+id/btnEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarEditTextActivity"
+                android:text="Edit Text" />
+
+            <Button
+                android:id="@+id/btnArrayList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarArrayListActivity"
+                android:text="ArrayList / ListView / ArrayAdapter / Option Menu / Menu Google / Multiplas Activities" />
+
+            <Button
+                android:id="@+id/btnAutoComplete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarAutoCompleteActivity"
+                android:text="AutoComplete" />
+
+            <Button
+                android:id="@+id/btnSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarSpinnerActivity"
+                android:text="Spinner" />
+
+            <TextView
+                android:id="@+id/space1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btnDropPopup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarDropPopupActivity"
+                android:text="Dropdown / Popup / Img de Fundo / Clique Longo /Menu Google" />
+
+            <Button
+                android:id="@+id/btnRadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarRadioButtonActivity"
+                android:text="Radio Buttom" />
+
+            <Button
+                android:id="@+id/btnGridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarGridViewActivity"
+                android:text="Grid View" />
+
+            <Button
+                android:id="@+id/btnSom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarTocarSomActivity"
+                android:text="Tocar Som" />
+
+            <Button
+                android:id="@+id/btnMultiTab"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="clicarMultiplasabsTActivity"
+                android:text="Multiplas Tabs" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
